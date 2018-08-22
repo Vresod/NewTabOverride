@@ -28,3 +28,6 @@ a:active {
   text-decoration: underline;
   color: lightgrey;
 }
+table {
+  margin: 0 auto
+}
